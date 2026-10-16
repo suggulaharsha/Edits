@@ -1,0 +1,6 @@
+{
+  "name": "Vignesh Space - Editing Assets Hub",
+  "description": "The ultimate curated vault of editing assets, LUTs, sound effects, motion graphics, overlays, transitions, and project files curated by Vignesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
